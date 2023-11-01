@@ -1,3 +1,15 @@
+data/
+
+dataset-cartography/agree-to-disagree/plots
+
+dataset-cartography/annotators-with-attitude/off_avg/plots
+dataset-cartography/annotators-with-attitude/off_avg/plots
+dataset-cartography/annotators-with-attitude/off_avg/plots
+
+dataset-cartography/measuring-hate-speech/plots
+
+noise-and-bias/dataset-cartography/semeval-2018-task-5/plots
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
