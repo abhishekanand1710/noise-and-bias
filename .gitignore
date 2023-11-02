@@ -10,6 +10,10 @@ dataset-cartography/measuring-hate-speech/plots
 
 noise-and-bias/dataset-cartography/semeval-2018-task-5/plots
 
+
+# mac
+.DS_Store
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
